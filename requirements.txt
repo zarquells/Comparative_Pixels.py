@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+pymongo>=4.6.0
+gridfs
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
